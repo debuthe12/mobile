@@ -1,0 +1,16 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Your rule content
+
+- it is a react native project that will run on physical device not on any emulator with the command "npx react-native run-android" we have already set up the connection between our phone and computer through adb
+- we will not use typescript here while building the application
+- Do not delete anything while writingg in file readme.md
